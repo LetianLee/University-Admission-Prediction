@@ -24,6 +24,9 @@ python math_assignment.py
 
 
 The source code are recommended to read by Jupyter Notebook.  
-Please read Jupyter file [**math.ipynb**](https://github.com/LetianLee/University-Admission-Prediction/blob/main/math.ipynb).  
+Please read Jupyter file [**math.ipynb**](https://github.com/LetianLee/University-Admission-Prediction/blob/main/math.ipynb).   
+
+
+If you are interested, you can read my Lab Report by the file [**Math_Assignment.pdf**](https://github.com/LetianLee/University-Admission-Prediction/blob/main/Math_Assignment.pdf).
 
 Thanks!
