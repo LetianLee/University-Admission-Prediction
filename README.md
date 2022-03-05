@@ -5,9 +5,7 @@ The dataset is available at this [*Kaggle data repository*](https://www.kaggle.c
 
 
 ## Task Requirements
-You are required to build your linear regression models from scratch, and you are not allowed
-to use any off-the-shelf linear regression source code or library. Specifically, you are required to
-implement the following gradient descent optimisation algorithms 
+Building linear regression models from scratch **without** using any off-the-shelf linear regression source code or library. Specifically, implement the following gradient descent optimisation algorithms 
 1. Standard Gradient Descent 
 2. Stochastic Gradient Descent 
 3. Mini-batch Gradient Descent  
@@ -23,8 +21,8 @@ python math_assignment.py
 ```
 
 
-The source code are recommended to read by Jupyter Notebook.  
-Please read Jupyter file [**math.ipynb**](https://github.com/LetianLee/University-Admission-Prediction/blob/main/math.ipynb).   
+**The source code are recommended to read by Jupyter Notebook.  
+Please read Jupyter file [**math.ipynb**](https://github.com/LetianLee/University-Admission-Prediction/blob/main/math.ipynb).**   
 
 
 If you are interested, you can read my Lab Report by the file [**Math_Assignment.pdf**](https://github.com/LetianLee/University-Admission-Prediction/blob/main/Math_Assignment.pdf).
